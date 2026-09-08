@@ -36,6 +36,7 @@ En Markdown, los diagramas se proporcionan mediante Mermaid. Si el visor no admi
 6. [Transacciones, errores y recursos](06_TRANSACCIONES_Y_ERRORES.md)
 7. [SQLJ frente a JDBC y buenas prácticas](07_SQLJ_VS_JDBC.md)
 8. [Taller de ejercicios resueltos](08_EJERCICIOS_RESUELTOS.md)
+9. [Taller de ejercicios resueltos con cursores](09_EJERCICIOS_RESUELTOS_CON_CURSORES.md)
 
 ## Ruta de aprendizaje recomendada
 
