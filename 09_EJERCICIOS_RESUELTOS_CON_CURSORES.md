@@ -1,4 +1,4 @@
-# Entrega 8. Taller de ejercicios resueltos
+# Entrega 9. Taller de ejercicios resueltos
 
 ## Matriz de progresión
 
